@@ -42,6 +42,9 @@ def fetch_and_serve_pdf(request):
         pdf_content = response.content
         return HttpResponse(pdf_content, content_type='application/pdf')
     else:
-        return HttpResponse("Failed to retrieve PDF", status=404)```
+        return HttpResponse("Failed to retrieve PDF", status=404)
+```
+
+
 
 In summary, PDF handling usually fits under Advanced Topics in Django due to the need for additional libraries and specific content handling within Django views or background tasks.
