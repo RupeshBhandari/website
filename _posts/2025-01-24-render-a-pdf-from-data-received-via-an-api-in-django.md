@@ -7,19 +7,22 @@ tags: [django]
 
 
 Django handles files received from APIs or external sources, such as PDFs, images, or documents.
+
 It can involve processing, saving, or rendering files for further use or display within your application.
 
 ## Steps for Rendering and Serving a PDF  
     
 ### Step 1: Fetch and Process Data  
-    When an API provides a PDF file (often in binary format or as a URL to download), you’d handle this within a Django view or a dedicated function to retrieve and process the data.  
+When an API provides a PDF file (often in binary format or as a URL to download), you’d handle this within a Django view or a dedicated function to retrieve and process the data.  
+
 ### Step 2: Render the PDF in Django  
-    Django itself doesn’t directly display PDFs; instead, you typically render it using a library like ReportLab or WeasyPrint to create or process PDFs. 
-    In this case:
-    Use Django views to serve PDFs directly as downloadable files or embed them within a web page.
-    Save the PDF temporarily or permanently, depending on your requirements. How to display the PDF permanently or temporarily?  
+Django itself doesn’t directly display PDFs; instead, you typically render it using a library like ReportLab or WeasyPrint to create or process PDFs. 
+#### In this case:
+Use Django views to serve PDFs directly as downloadable files or embed them within a web page.
+Save the PDF temporarily or permanently, depending on your requirements. How to display the PDF permanently or temporarily?  
+
 ### Step 3: Return the PDF Response  
-    You’d use Django’s HttpResponse with content_type='application/pdf' to serve the file for download or display.
+You’d use Django’s HttpResponse with content_type='application/pdf' to serve the file for download or display.
 
 ### Example Flow in Django
 
