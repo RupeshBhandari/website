@@ -1,5 +1,5 @@
 ---
-title: "programming-for-all-python"
+title: "Programming for All: Python"
 date: 2024-01-24 11:00:00
 categories: [Programming]
 tags: [python]
