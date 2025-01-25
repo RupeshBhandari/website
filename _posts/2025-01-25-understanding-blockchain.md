@@ -3,8 +3,8 @@ title: "Understanding Blockchain: A Beginner’s Guide"
 date: 2024-01-24 10:00:00
 categories: [Blockchain]
 tags: [blockchain]
+mermaid: true
 ---
-
 
 Blockchain is a revolutionary technology that powers cryptocurrencies like Bitcoin, but its potential goes far beyond that. In this post, we’ll break down the key concepts of blockchain, how it works, and its practical applications.
 
@@ -72,12 +72,12 @@ Applications of Blockchain
 
 Advantages and Challenges
 
-Advantages
+Advantages  
 	•	Enhanced security through encryption.
 	•	Reduced costs by eliminating intermediaries.
 	•	Improved efficiency with automation.
 
-Challenges
+Challenges  
 	•	Scalability issues due to high resource usage.
 	•	Regulatory uncertainties in different countries.
 	•	High energy consumption in proof-of-work systems.
