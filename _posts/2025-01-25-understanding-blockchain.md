@@ -64,18 +64,18 @@ Transactions are visible to all participants, fostering trust. For instance, in 
 The linked structure of blockchain ensures that altering a block invalidates all subsequent blocks, making data tamper-proof.
 
 Applications of Blockchain  
-	1. Cryptocurrency: Secure digital currencies like Bitcoin and Ethereum.
-	1.	Supply Chain: Track goods from origin to consumer.
-	1.	Healthcare: Manage patient records securely.
-	1.	Finance: Enable faster cross-border payments.
+	1. Cryptocurrency: Secure digital currencies like Bitcoin and Ethereum.  
+	1.	Supply Chain: Track goods from origin to consumer.  
+	1.	Healthcare: Manage patient records securely. 
+	1.	Finance: Enable faster cross-border payments.  
 	1.	Smart Contracts: Automate agreements using Ethereum’s blockchain.
 
 Advantages and Challenges
 
 Advantages  
-	•	Enhanced security through encryption.
-	•	Reduced costs by eliminating intermediaries.
-	•	Improved efficiency with automation.
+	•	Enhanced security through encryption.  
+	•	Reduced costs by eliminating intermediaries.  
+	•	Improved efficiency with automation.  
 
 Challenges  
 	•	Scalability issues due to high resource usage.
