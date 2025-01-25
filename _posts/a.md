@@ -1,6 +1,10 @@
+---
+title: "Understanding Blockchain: A Beginner’s Guide"
+date: 2024-01-24 10:00:00
+categories: [Blockchain]
+tags: [blockchain]
+---
 
-
-Understanding Blockchain: A Beginner’s Guide
 
 Blockchain is a revolutionary technology that powers cryptocurrencies like Bitcoin, but its potential goes far beyond that. In this post, we’ll break down the key concepts of blockchain, how it works, and its practical applications.
 
