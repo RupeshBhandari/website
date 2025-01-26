@@ -1,12 +1,9 @@
 ---
 title: "Aakriti’s Journey: A Tale of Freedom, Betrayal, and Rediscovery"
 date: 2024-01-24 10:00:00
-categories: [story]
+categories: [Stories]
 tags: [story]
 ---
-
-
-# Aakriti’s Journey: A Tale of Freedom, Betrayal, and Rediscovery
 
 Aakriti had always been a dreamer. Fresh out of high school in Nepal, she often found herself scrolling through Instagram, where her seniors showcased picture-perfect lives in sunlit foreign lands. Their laughter seemed almost tangible, their freedom intoxicating. Her own life, however, felt confined within the chaotic walls of her home—a household ruled by her father’s unyielding temper and an emotional void that left her yearning for escape.
 

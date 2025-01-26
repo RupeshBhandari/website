@@ -1,5 +1,5 @@
 ---
-title: "iPhone 16 Review: Familiar Yet Capable"
+title: "Iphone 16 Review: Familiar Yet Capable"
 date: 2024-01-24 11:00:00
 categories: [Reviews]
 tags: [iphone16]
