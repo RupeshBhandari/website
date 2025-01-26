@@ -5,7 +5,8 @@ categories: [Programming]
 tags: [python]
 ---
 
-# Introduction to Python
+## Introduction to Python
+
 ## History of Python
 
 Python is a high-level, interpreted programming language that was first released in 1991. It was created by Guido van Rossum, a Dutch computer scientist, while working at the National Research Institute for Mathematics and Computer Science in the Netherlands.
