@@ -1,6 +1,6 @@
 ---
 title: "Corruption Scandal Involving Max International and the Security Printing Center"
-date: 2024-01-28 07:00:00
+date: 2025-01-28 07:00:00
 categories: [Nepal]
 tags: [corruption]
 ---
