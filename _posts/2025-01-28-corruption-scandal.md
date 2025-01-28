@@ -47,5 +47,3 @@ As the case unfolds, it will serve as a critical test of Nepal's resolve to upho
 - Max International. (n.d.). *Anti-bribery and corruption compliance policy*. Retrieved from [https://maxnepal.net/abc-and-trade-compliance-clauses/](https://maxnepal.net/abc-and-trade-compliance-clauses/)
 
 - The Rising Nepal. (2024). *Graft case filed against six in equipment procurement for security printing press*. Retrieved from [https://risingnepaldaily.com/news/42843](https://risingnepaldaily.com/news/42843)
-
-- Transparency International. (2023). *Corruption Perceptions Index 2023*. Retrieved from [https://www.transparency.org/en/countries/nepal](https://www.transparency.org/en/countries/nepal)
