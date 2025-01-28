@@ -54,16 +54,14 @@ graph TD
 
 ## Key Features of Blockchain
 
-1. Decentralization  
-Traditional systems rely on centralized servers. In blockchain, data is stored across a network of nodes, making it resilient to failures.
+1. **Decentralization**  
+    Traditional systems rely on centralized servers. In blockchain, data is stored across a network of nodes, making it resilient to failures.
 
-1. Transparency
+2. **Transparency**  
+    Transactions are visible to all participants, fostering trust. For instance, in Bitcoin, anyone can view the transaction history.
 
-Transactions are visible to all participants, fostering trust. For instance, in Bitcoin, anyone can view the transaction history.
-
-1. Immutability
-
-The linked structure of blockchain ensures that altering a block invalidates all subsequent blocks, making data tamper-proof.
+3. **Immutability**  
+    The linked structure of blockchain ensures that altering a block invalidates all subsequent blocks, making data tamper-proof.
 
 ## Applications of Blockchain  
 
@@ -75,17 +73,17 @@ The linked structure of blockchain ensures that altering a block invalidates all
 
 ## Advantages and Challenges
 
-### Advantages  
+### Advantages
 
-- Enhanced security through encryption.  
-- Reduced costs by eliminating intermediaries.  
-- Improved efficiency with automation.  
+1. Enhanced security through encryption.
+2. Reduced costs by eliminating intermediaries.
+3. Improved efficiency with automation.  
 
-### Challenges  
+### Challenges
 
-- Scalability issues due to high resource usage.
-- Regulatory uncertainties in different countries.
-- High energy consumption in proof-of-work systems.
+1. Scalability issues due to high resource usage.
+2. Regulatory uncertainties in different countries.
+3. High energy consumption in proof-of-work systems.
 
 ## Conclusion
 
