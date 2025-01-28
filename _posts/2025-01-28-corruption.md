@@ -1,10 +1,9 @@
 ---
-title: "# Corruption Scandal Involving Max International and the Security Printing Center"
+title: "Corruption Scandal Involving Max International and the Security Printing Center"
 date: 2024-01-28 07:00:00
-categories: [Corruption]
-tags: []
+categories: [Nepal]
+tags: [corruption]
 ---
-
 
 In May 2024, Nepal's Commission for the Investigation of Abuse of Authority (CIAA) filed corruption charges against six individuals, including Akbar Hussain, the CEO of Max International. The charges were related to procurement irregularities at the Security Printing Center (SPC), causing significant financial losses to the government.
 
