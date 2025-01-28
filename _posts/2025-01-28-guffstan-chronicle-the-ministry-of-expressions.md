@@ -1,6 +1,6 @@
 ---
 title: "Guffstan Chronicle: The Ministry of Expressions"
-date: 2025-01-28 20:00:00
+date: 2025-01-28 20:00:00 +0545
 categories: [Nepal]
 tags: [satire]
 ---
