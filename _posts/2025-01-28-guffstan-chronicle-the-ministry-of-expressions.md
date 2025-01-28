@@ -1,7 +1,7 @@
 ---
 title: "Guffstan Chronicle: The Ministry of Expressions"
 date: 2025-01-28 20:00:00
-categories: [Nepal, Guffstan]
+categories: [Nepal]
 tags: [satire]
 ---
 
@@ -10,7 +10,6 @@ In a historic move that has left the citizens of Guffstan speechless—literally
 
 According to insiders, the government was inspired by a neighboring nation, which recently passed its own **"Shut Up and Obey Act."** In an unprecedented show of diplomatic mimicry, Guffstan's leaders decided to one-up their counterparts by banning not only controversial opinions but also mildly enthusiastic ones.  
 
----
 
 ## The Ministry Speaks (So You Don’t Have To)  
 
@@ -20,7 +19,7 @@ Minister of Absolute Control, **Chatur Lal**, addressed the media in what is bei
 
 He further announced the creation of a state-run social media platform called **"GuffGram"**. GuffGram will automatically delete posts that contain dangerous keywords such as **"Why," "How," or "But."** Users will be rewarded for uploading photos of sunsets, cats, or the Prime Minister's face—preferably all three in one frame.  
 
----
+
 
 ## “We Have a Country, Not a Debate Club”  
 
@@ -28,7 +27,7 @@ Proponents of the bill argue that it will bring Guffstan closer to its vision of
 A government spokesperson explained:  
 > "We are tired of people questioning things like inflation, corruption, and potholes. We have a country to run, not a debate club. If people want freedom of speech, they can go and shout at their mirrors."  
 
----
+
 
 ## Exporting Silence to Neighboring Lands  
 
@@ -36,8 +35,6 @@ In a show of regional solidarity, Guffstan has proposed forming an international
 
 - One country plans to implement a **"Thought Tax."**  
 - Another is rumored to be working on an **"Emoji Monitoring Bureau"** to ensure nobody uses angry faces recklessly.  
-
----
 
 ## Citizens React (Quietly)  
 
@@ -51,7 +48,6 @@ One anonymous citizen shared his thoughts under the pseudonym **"Skewed Monk"**:
 > Then, they came for the tweets, and I did not speak out because I was not a tweeter.  
 > Now, they have come for the air I breathe, and I dare not exhale too loudly."  
 
----
 
 ## A Future Without Noise  
 
